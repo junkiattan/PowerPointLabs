@@ -958,7 +958,6 @@ namespace PowerPointLabs
             Ribbon.RefreshRibbonControl("ZoomToAreaButton");
             Ribbon.RefreshRibbonControl("ReplaceWithClipboardButton");
             Ribbon.RefreshRibbonControl("PasteIntoGroupButton");
-            Ribbon.RefreshRibbonControl("AddSpotlight");
         }
 
         private void ThisAddInNewPresentation(PowerPoint.Presentation pres)
